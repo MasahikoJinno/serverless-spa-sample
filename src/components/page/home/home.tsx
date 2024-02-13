@@ -1,5 +1,6 @@
 import { FC } from 'react'
+import { Box } from '@mui/material'
 
 export const Home: FC = () => {
-  return <div>Home</div>
+  return <Box>Home</Box>
 }
